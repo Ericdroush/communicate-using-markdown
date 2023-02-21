@@ -5,3 +5,6 @@
 ```
 line_start=`grep -n "available fluid node ids" er1 | cut -d":" -f1`
 ```
+- [ ] Item 1
+- [x] Item 2
+- [x] Item 3
